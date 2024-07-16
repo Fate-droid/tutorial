@@ -11,7 +11,7 @@ const pi = 3.14  //Can never be changed (it would prompt an error)
 
 var a; //recommended to put semicolon
 
-var firstName = "Ada";
+var firstName = "Adaa and Miles";
 
 var firstNameLength = firstName[1];
 var lastNameLength = firstName[firstName.length-1];
