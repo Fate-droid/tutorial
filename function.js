@@ -15,7 +15,7 @@ var onArray = [["the universe",42],["everything",101010]];
 
 var myArray = [["Bulls",23],["White sox", 45]]
 
-var ourArray = [50,60,70];
+var ourArray = [50,60,70,80,90];
 var ourData = ourArray[0];
 
 ourData[1] = 45;
