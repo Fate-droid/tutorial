@@ -9,7 +9,7 @@ function wordBlanks(myNoun, myAdjective, myVerb, myAdverb){
 
 var ourArray = ["John",23];
 
-var myArray = ["Quincy",33];
+var myArray = ["Quincy",333];
 
 var onArray = [["the universe",42],["everything",101010]];
 
